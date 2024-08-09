@@ -13,7 +13,7 @@ This project focuses on sales analysis of Toman Bike Share company. It involves 
 * Prepared visualizations in Power BI for in-depth analysis.
 
 ## Insights
-![](https://github.com/chinneee/SQL_BI--Toman-Bike-Share/blob/main/Toman_bike_share_dashboard.pdf)
+![]([https://github.com/chinneee/SQL_BI--Toman-Bike-Share/blob/main/Toman_bike_share_dashboard.pdf](https://github.com/chinneee/SQL_BI--Toman-Bike-Share/blob/main/Bike_share_dashboard.png)
 1. In 2022 the company achieved revenue of $10.2 million, a 105% increase from 2021 revenue of $5 million.
 2. The company achieved a 65% increase in the number of riders from 1.24 million riders in 2021 to 2.05 million riders in 2022.
 3. The company achieved a 106% increase in profit up from $3.4 million in 2021 to $7 million in 2022.
